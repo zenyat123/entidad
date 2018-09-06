@@ -9,6 +9,14 @@ body
 	color: #316599;
 }
 
+.logo
+{
+	width: 100px;
+	margin-top: -30px;
+	margin-left: -100px;
+	margin-bottom: -100px;
+}
+
 .contenedorTitulo
 {
 	margin: 120px 0px 160px 0px;

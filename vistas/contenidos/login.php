@@ -4,11 +4,11 @@
 		
 	<div class = "container">
 
-		<center class = "contenedorTitulo">	
+		<center class = "contenedorTitulo">		
 
-			<h2>SIE</h2>
+			<img src = "img/entidad.png" alt = "Entidad" class = "logo"><h2>SIE</h2>
 
-			<h2>Sistema de Información de la Entidad</h2>
+			<h2>Sistema de Información de la Entidad</h2>					
 
 		</center>
 		
