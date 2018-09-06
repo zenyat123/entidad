@@ -1,0 +1,92 @@
+
+
+/*======  Estilos Principales  ======*/
+
+
+body
+{
+	background-color: #F2F3F4;
+	color: #316599;
+}
+
+.contenedorTitulo
+{
+	margin: 120px 0px 160px 0px;
+}
+
+.contenedorTituloDos
+{
+	margin: 80px 0px 160px 0px;
+}
+
+#formularioIngreso
+{
+	padding: 60px 40px;
+}
+
+#formularioIngreso h3
+{
+	text-align: center;
+	margin: 0px 0px 80px 0px;
+}
+
+#formularioIngreso span
+{
+	color: #316599;
+}
+
+#formularioIngreso .boton
+{
+	margin-top: 60px;
+}
+
+.form-control
+{
+	color: #316599;
+}
+
+.boton
+{
+	background-color: #316599;
+}
+
+.boton-formulario
+{
+	background-color: #316599;
+	margin: 60px 0px;
+}
+
+.alert
+{
+	text-align: center;
+}
+
+#panel-izquierdo
+{
+	margin: 0px;
+}
+
+#panel-derecho
+{
+	margin: 0px;
+}
+
+/*======  Tablas  ======*/
+
+
+.pagination > .active > a, 
+.pagination > .active > a:focus, 
+.pagination > .active > a:hover
+{
+ 	background-color: #316599;
+    border-color: #316599;
+    color: white;
+}
+
+.pagination > .disabled > a, 
+.pagination > .disabled > a:focus, 
+.pagination > .disabled > a:hover
+{
+    cursor: default;
+}
+
