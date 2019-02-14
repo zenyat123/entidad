@@ -29,7 +29,7 @@
 						   "estado" => "Recibido",
 						   "fecha" => $this -> fecha_tramite,
 						   "id_persona" => $_SESSION["id_persona"],
-						   "id_empleado" => "1025641230",
+						   "id_empleado" => "1024515308",
 						   "id_tema" => $this -> id_tema);
 
 			$respuesta = ControladorTramites::ControladorRegistrarTramite($datos);
