@@ -345,7 +345,7 @@ $(".tablaTramites tbody").on("click", ".botonEliminarTramite", function()
 	//  Consultar Trámite  
 
 	var radicado = $(this).attr("radicado");
-	var titulo = $(this).attr("titulo")
+	var titulo = $(this).attr("titulo");
 
 	swal
 	({
@@ -362,15 +362,15 @@ $(".tablaTramites tbody").on("click", ".botonEliminarTramite", function()
 
 	function(isConfirm)
 	{
+
 		if(isConfirm)
 		{
 
 			window.location = "index.php?ruta=panel-persona&radicado="+radicado;
 
 		}
-	}
 
-	); 			 
+	}); 			 
 
 })
 
